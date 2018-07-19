@@ -1,3 +1,5 @@
+# Implementation of CoordConv is taken from [mkocabas/CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch) (thanks to @mkocabas)
+
 import torch
 import torch.nn as nn
 
